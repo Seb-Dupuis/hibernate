@@ -3,7 +3,8 @@
   <img alt="Version" src="https://img.shields.io/npm/v/Spring : JPA et Hibernate.svg">
 </p>
 
-> ##Challenge##
+> Challenge
+
 #From Spring to MySQL#
 Mets en pratique ce que tu viens d'apprendre dans la quête en créant ta propre application Spring Boot communiquant avec une base de données MySQL.
 
